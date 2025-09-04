@@ -28,6 +28,7 @@ while (rs.next()) {
         System.out.println(e.getMessage() );
 
     }
+    System.out.println("customer address");
 
 }
 
