@@ -5,7 +5,6 @@ public class Customer {
     private int custId;
     private String custName;
     private String custAddress;
-    // create getters and setters
     public int getCustId() {
         return custId;
     }
@@ -35,3 +34,4 @@ public class Customer {
     }
 
 }
+
